@@ -1,106 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\",
+  "WorkspaceRootPath": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\modelviews\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\modelviews\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\helper\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\helper\\exception\\negativeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\models\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Migrations\\20250118220826_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskSimulation5\\Migrations\\20250118220826_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Migrations\\20250118220629_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskSimulation5\\Migrations\\20250118220629_AddTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\views\\agent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\views\\agent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\modelviews\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\modelviews\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\viewmodel\\agents\\createagentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\viewmodel\\agents\\createagentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\viewmodel\\agents\\updateagentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\viewmodel\\agents\\updateagentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\helper\\mapper\\agentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\helper\\mapper\\agentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\views\\position\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\views\\position\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\helper\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\helper\\mapper\\positionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\views\\agent\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\views\\agent\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\classtime\\desktop\\tasksimulation5\\tasksimulation5\\areas\\manage\\views\\agent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\areas\\manage\\views\\agent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|c:\\users\\smart\\source\\repos\\tasksimulation5\\tasksimulation5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{572BD3A9-CCF0-4AA2-A62A-83956D0D1EBD}|TaskSimulation5\\TaskSimulation5.csproj|solutionrelative:tasksimulation5\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,331 +66,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAuwB4AAAAgAAAA",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TaskSimulation5\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T09:10:41.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAArwFEAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T09:10:41.248Z",
+              "WhenOpened": "2025-01-18T22:24:12.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Program.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Program.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Program.cs",
-              "RelativeToolTip": "TaskSimulation5\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAgwD8AAAAkAAAA",
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Models\\AppUser.cs",
+              "RelativeToolTip": "TaskSimulation5\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T09:03:55.495Z",
+              "WhenOpened": "2025-01-18T22:16:02.739Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Models\\AppUser.cs",
-              "RelativeToolTip": "TaskSimulation5\\Models\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Title": "20250118220826_AddTables.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Migrations\\20250118220826_AddTables.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Migrations\\20250118220826_AddTables.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Migrations\\20250118220826_AddTables.cs",
+              "RelativeToolTip": "TaskSimulation5\\Migrations\\20250118220826_AddTables.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T09:00:56.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAADwvywAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T08:58:35.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:58:33.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:58:19.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TaskSimulation5\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TaskSimulation5\\ScaffoldingReadMe.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-17T08:57:54.937Z",
+              "WhenOpened": "2025-01-18T22:08:26.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "NegativeIdException.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Helper\\Exception\\NegativeIdException.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Helper\\Exception\\NegativeIdException.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Helper\\Exception\\NegativeIdException.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Helper\\Exception\\NegativeIdException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Title": "20250118220629_AddTables.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Migrations\\20250118220629_AddTables.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Migrations\\20250118220629_AddTables.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Migrations\\20250118220629_AddTables.cs",
+              "RelativeToolTip": "TaskSimulation5\\Migrations\\20250118220629_AddTables.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAH0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T08:05:01.84Z",
+              "WhenOpened": "2025-01-18T22:06:30.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:46:47.26Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Home\\Error.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Views\\Home\\Error.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Home\\Error.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Views\\Home\\Error.cshtml",
-              "ViewState": "AQIAAMYAAAAAAAAAAAAAAN8AAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:28:59.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TaskSimulation5\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Program.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Program.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Program.cs",
+              "RelativeToolTip": "TaskSimulation5\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBEAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T08:19:39.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAPwAAAAAAAAAAAAUwB8BAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:18:10.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Position\\Create.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Views\\Position\\Create.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Position\\Create.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Views\\Position\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:07:02.981Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Position\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Views\\Position\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Position\\Index.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Views\\Position\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T08:00:50.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UpdateAgentVm.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\UpdateAgentVm.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\UpdateAgentVm.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\UpdateAgentVm.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\UpdateAgentVm.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAWwBsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:50:34.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AgentProfile.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\AgentProfile.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\AgentProfile.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\AgentProfile.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\AgentProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:41:22.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Controllers\\PositionController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:25:03.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AgentController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Controllers\\AgentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:23:55.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PositionProfile.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\PositionProfile.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\PositionProfile.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\PositionProfile.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Helper\\Mapper\\PositionProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:41:26.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Index.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T07:43:12.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Update.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Update.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Update.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Update.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T07:50:01.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CreateAgentVm.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\CreateAgentVm.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\CreateAgentVm.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\CreateAgentVm.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\ViewModel\\Agents\\CreateAgentVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:43:07.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Create.cshtml",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Create.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Create.cshtml",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Views\\Agent\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T07:43:15.383Z",
+              "WhenOpened": "2025-01-18T21:55:04.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TaskSimulation5\\Areas\\Manage\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\TaskSimulation5\\TaskSimulation5\\Areas\\Manage\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TaskSimulation5\\Areas\\Manage\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskSimulation5\\appsettings.json",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\appsettings.json",
+              "RelativeToolTip": "TaskSimulation5\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T21:54:44.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\Source\\Repos\\TaskSimulation5\\TaskSimulation5\\Models\\Roles.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Models\\Roles.cs",
+              "ToolTip": "C:\\Users\\smart\\Source\\Repos\\TaskSimulation5\\TaskSimulation5\\Models\\Roles.cs",
+              "RelativeToolTip": "TaskSimulation5\\Models\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T07:25:03.124Z",
+              "WhenOpened": "2025-01-18T21:45:51.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "TaskSimulation5\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T21:38:17.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskSimulation5\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T21:35:44.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "TaskSimulation5\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T21:35:41.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\ModelViews\\LoginVm.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\ModelViews\\LoginVm.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\ModelViews\\LoginVm.cs",
+              "RelativeToolTip": "TaskSimulation5\\ModelViews\\LoginVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:20:55.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\ModelViews\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\ModelViews\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\ModelViews\\RegisterVm.cs",
+              "RelativeToolTip": "TaskSimulation5\\ModelViews\\RegisterVm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:20:43.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "TaskSimulation5\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-18T21:19:51.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TaskSimulation5\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\smart\\source\\repos\\TaskSimulation5\\TaskSimulation5\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TaskSimulation5\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T21:19:10.697Z",
               "EditorCaption": ""
             }
           ]
